@@ -1,0 +1,14 @@
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\bin\Debug\lmdb32.dll
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\bin\Debug\lmdb64.dll
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\bin\Debug\SiaqDB PSR PracaDomowa.exe.config
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\bin\Debug\SiaqDB PSR PracaDomowa.exe
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\bin\Debug\SiaqDB PSR PracaDomowa.pdb
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\bin\Debug\Siaqodb.dll
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\bin\Debug\SiaqodbPortable.dll
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\bin\Debug\Siaqodb.xml
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\bin\Debug\SiaqodbPortable.xml
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\obj\Debug\SiaqDB PSR PracaDomowa.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\obj\Debug\SiaqDB PSR PracaDomowa.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\obj\Debug\SiaqDB PSR PracaDomowa.csproj.CopyComplete
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\obj\Debug\SiaqDB PSR PracaDomowa.exe
+C:\Users\Piotr\Desktop\PSR\Lab6\src\SiaqoDB PSR\SiaqDB PSR PracaDomowa\obj\Debug\SiaqDB PSR PracaDomowa.pdb
